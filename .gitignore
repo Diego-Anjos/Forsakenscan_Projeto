@@ -1,0 +1,13 @@
+# Byte-code
+__pycache__/
+*.py[cod]
+
+# Ambiente virtual
+venv/
+
+# Configurações locais VS Code
+.vscode/
+
+# Logs / bancos temporários
+*.log
+*.db
